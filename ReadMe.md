@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋🏻, I'm Mobina </br> </h1>
-<p align="center">I love learning and creating new things</p>
+<p align="center">I love learning and creating new things.</p>
 
 
 <p align="center">
@@ -14,7 +14,7 @@
 <h1 align="center"> Tech Stack </br>
 <div align="center">
   <a href="https://github.com/MobinaBakhshpour">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,mysql,git,figma,xd,php,npm&perline=11" alt="my skills" />
+  <img style="width:35rem" src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap,mysql,git,figma,xd,php,npm&perline=11" alt="my skills" />
   </a>
   </br></br>
 </div>
